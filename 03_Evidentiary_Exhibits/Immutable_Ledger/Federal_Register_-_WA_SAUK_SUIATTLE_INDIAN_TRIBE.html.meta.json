@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=WA+SAUK+SUIATTLE+INDIAN+TRIBE",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=WA+SAUK+SUIATTLE+INDIAN+TRIBE",
+  "title": "Federal Register - WA SAUK SUIATTLE INDIAN TRIBE",
+  "fetched_at": "2026-11-23T17:49:55.332700Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 254084,
+  "sha256": "4e0550687509cc9beeb56ea1f99f9233af8cd966b261b997ac2f3d480f8fbcfc",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
